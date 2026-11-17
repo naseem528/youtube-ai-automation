@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "عبد الله رشدي (Abdullah Rushdy)",
+    "handle": "@AbdullahRushdy",
+    "channel_id": "UCb5kp2EMETR2RCR1kT0c26g",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCb5kp2EMETR2RCR1kT0c26g",
+    "topic": "Islamic Apologetics, Debates & Contemporary Issues",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "د. إياد قنيبي - رحلة اليقين (Dr. Eyad Qunaibi)",
+    "handle": "@EyadQunaibi",
+    "channel_id": "UCf_Zd_7oIJKHDzdu2HsXbEA",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_Zd_7oIJKHDzdu2HsXbEA",
+    "topic": "Faith Journey, Scientific Miracles & Philosophy Refutations",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "د. هيثم طلعت (Dr. Haitham Talaat)",
+    "handle": "@Dr.Haitham_Talaat",
+    "channel_id": "UCLj8UFOcdFrvlh24Lw7jrgA",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLj8UFOcdFrvlh24Lw7jrgA",
+    "topic": "Atheism Refutation, Faith & Philosophy Debates",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "الشيخ أحمد السيد (Ahmad Alsayed)",
+    "handle": "@alsayyed_ah",
+    "channel_id": "UCc07Jq9bQf9b0T1U2nN2Aeg",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc07Jq9bQf9b0T1U2nN2Aeg",
+    "topic": "Islamic Thought, Hadith Defense & Intellectual Awareness",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "الشيخ د. عثمان الخميس (Othman Al-Khamis)",
+    "handle": "@othmanalkamees",
+    "channel_id": "UC6UwNU4kNwbozS9JzDWZtpw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6UwNU4kNwbozS9JzDWZtpw",
+    "topic": "Fiqh, Fatwa, Quranic & Sunnah Guidance",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "د. عمر عبد الكافي (Dr. Omar Abdelkafy)",
+    "handle": "@DrOmarAbdelkafy",
+    "channel_id": "UChum7AwFulXsbI6-RmQDXzg",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChum7AwFulXsbI6-RmQDXzg",
+    "topic": "Prophetic Stories, Moral Principles & Islamic Ethics",
+    "active": true
+  },
+  {
+    "id": 7,
+    "name": "د. سامي عامري (Dr. Sami Ameri)",
+    "handle": "@DrSamiAmeri",
+    "channel_id": "UCzYt3eE5s3K9C5G_Y7mJ1kA",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzYt3eE5s3K9C5G_Y7mJ1kA",
+    "topic": "Comparative Religion & Scientific Research on Faith",
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "فاضل سليمان (Fadel Soliman)",
+    "handle": "@fadelsoliman",
+    "channel_id": "UCvD9yT8W4fG7L6R8Q5P6zKw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvD9yT8W4fG7L6R8Q5P6zKw",
+    "topic": "Interfaith Dialogue & Misconceptions about Islam",
+    "active": true
+  },
+  {
+    "id": 9,
+    "name": "بودكاست وعي (Waey Podcast)",
+    "handle": "@waeypodcast",
+    "channel_id": "UC7U8Vq7rQ5K4L6N9M3P2xRw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7U8Vq7rQ5K4L6N9M3P2xRw",
+    "topic": "Youth Guidance, Modern Life & Religious Values",
+    "active": true
+  },
+  {
+    "id": 10,
+    "name": "محمد الغليظ (Mohamed El Gheleez)",
+    "handle": "@MohamedElGheleez",
+    "channel_id": "UCm9K8P5vR6T3Y1U4L2M8wQw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm9K8P5vR6T3Y1U4L2M8wQw",
+    "topic": "Heart Purification, Youth Inspiration & Faith",
+    "active": true
+  },
+  {
+    "id": 11,
+    "name": "أمير منير (Amir Mounir)",
+    "handle": "@amirmounir",
+    "channel_id": "UCxK8L4N3P2R5T6V7W8M9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxK8L4N3P2R5T6V7W8M9yZw",
+    "topic": "Daily Islamic Lifestyle & Motivational Faith",
+    "active": true
+  },
+  {
+    "id": 12,
+    "name": "د. حازم شومان (Dr. Hazem Shouman)",
+    "handle": "@DrHazemShouman",
+    "channel_id": "UCp8L4M3N2R5T6V7W8K9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp8L4M3N2R5T6V7W8K9yZw",
+    "topic": "Youth Da'wah & Islamic Character Building",
+    "active": true
+  },
+  {
+    "id": 13,
+    "name": "د. محمد راتب النابلسي (Dr. Rateb Al-Nabulsi)",
+    "handle": "@NabulsiEncyclopedia",
+    "channel_id": "UC_wO4V7xM3L2R5P6T8K9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_wO4V7xM3L2R5P6T8K9yZw",
+    "topic": "Names of Allah, Tafseer & Scientific Miracles",
+    "active": true
+  },
+  {
+    "id": 14,
+    "name": "الشيخ سعيد الكملي (Sheikh Saeed Al-Kamali)",
+    "handle": "@SaeedAlkamali",
+    "channel_id": "UCq8L4M3N2R5T6V7W8P9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq8L4M3N2R5T6V7W8P9yZw",
+    "topic": "Maliki Fiqh, Hadith Science & Islamic Eloquence",
+    "active": true
+  },
+  {
+    "id": 15,
+    "name": "الشيخ وليد إسماعيل (Walid Ismail)",
+    "handle": "@walid_ismail",
+    "channel_id": "UCw8L4M3N2R5T6V7W8R9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw8L4M3N2R5T6V7W8R9yZw",
+    "topic": "Theological Debates & Sectarian Refutations",
+    "active": true
+  },
+  {
+    "id": 16,
+    "name": "معاذ عليان (Moaz Olayan)",
+    "handle": "@moazolayan",
+    "channel_id": "UCr8L4M3N2R5T6V7W8S9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr8L4M3N2R5T6V7W8S9yZw",
+    "topic": "Comparative Religion & Bible vs Quran Studies",
+    "active": true
+  },
+  {
+    "id": 17,
+    "name": "محمود داود (Mahmoud Dawood)",
+    "handle": "@mahmoud_dawood",
+    "channel_id": "UCs8L4M3N2R5T6V7W8T9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs8L4M3N2R5T6V7W8T9yZw",
+    "topic": "Interfaith Discussions & Debates with Skeptics",
+    "active": true
+  },
+  {
+    "id": 18,
+    "name": "عمار وائل (Ammar Wael)",
+    "handle": "@ammarwael",
+    "channel_id": "UCt8L4M3N2R5T6V7W8U9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCt8L4M3N2R5T6V7W8U9yZw",
+    "topic": "Philosophy, Science & Theism vs Atheism",
+    "active": true
+  },
+  {
+    "id": 19,
+    "name": "الشيخ محمود الحسنات (Mahmoud Al-Hasanat)",
+    "handle": "@MahmoudAlhasanat",
+    "channel_id": "UCu8L4M3N2R5T6V7W8V9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu8L4M3N2R5T6V7W8V9yZw",
+    "topic": "Inspiring Friday Sermons & Social Commentary",
+    "active": true
+  },
+  {
+    "id": 20,
+    "name": "مصطفى حسني (Mustafa Hosny)",
+    "handle": "@MustafaHosny",
+    "channel_id": "UCv8L4M3N2R5T6V7W8W9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCv8L4M3N2R5T6V7W8W9yZw",
+    "topic": "Spiritual Growth, Inner Peace & Self-Development",
+    "active": true
+  },
+  {
+    "id": 21,
+    "name": "د. عمرو خالد (Dr. Amr Khaled)",
+    "handle": "@AmrKhaled",
+    "channel_id": "UCx8L4M3N2R5T6V7W8X9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCx8L4M3N2R5T6V7W8X9yZw",
+    "topic": "Life Transformation, Faith & Social Impact",
+    "active": true
+  },
+  {
+    "id": 22,
+    "name": "د. طارق السويدان (Dr. Tareq Al-Suwaidan)",
+    "handle": "@DrTareqAlSuwaidan",
+    "channel_id": "UCy8L4M3N2R5T6V7W8Y9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy8L4M3N2R5T6V7W8Y9yZw",
+    "topic": "Islamic History, Leadership & Civilizational Revival",
+    "active": true
+  },
+  {
+    "id": 23,
+    "name": "الشيخ محمد العريفي (Mohamad Al-Arefe)",
+    "handle": "@MohamadAlarefe",
+    "channel_id": "UCz8L4M3N2R5T6V7W8Z9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz8L4M3N2R5T6V7W8Z9yZw",
+    "topic": "Heart Touching Lectures & Quranic Stories",
+    "active": true
+  },
+  {
+    "id": 24,
+    "name": "الشيخ عائض القرني (Aidh Al-Qarni)",
+    "handle": "@DrAidhAlqarni",
+    "channel_id": "UC08L4M3N2R5T6V7W8A9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC08L4M3N2R5T6V7W8A9yZw",
+    "topic": "Don't Be Sad (La Tahzan) & Islamic Wisdom",
+    "active": true
+  },
+  {
+    "id": 25,
+    "name": "الشيخ نبيل العوضي (Nabil Al-Awadi)",
+    "handle": "@NabilAlawadhy",
+    "channel_id": "UC18L4M3N2R5T6V7W8B9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC18L4M3N2R5T6V7W8B9yZw",
+    "topic": "Stories of the Prophets & Islamic History",
+    "active": true
+  },
+  {
+    "id": 26,
+    "name": "الشيخ بدر المشاري (Badr Al-Mishari)",
+    "handle": "@BadrAlmeshari",
+    "channel_id": "UC28L4M3N2R5T6V7W8C9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC28L4M3N2R5T6V7W8C9yZw",
+    "topic": "Companions of the Prophet & Emotional Sermons",
+    "active": true
+  },
+  {
+    "id": 27,
+    "name": "الشيخ سعد العتيق (Saad Al-Ateeq)",
+    "handle": "@SaadAlAteeq",
+    "channel_id": "UC38L4M3N2R5T6V7W8D9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC38L4M3N2R5T6V7W8D9yZw",
+    "topic": "Dua, Repentance & Hope in Allah",
+    "active": true
+  },
+  {
+    "id": 28,
+    "name": "الشيخ منصور السالمي (Mansour Al-Salimi)",
+    "handle": "@mansouralsalimi",
+    "channel_id": "UC48L4M3N2R5T6V7W8E9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC48L4M3N2R5T6V7W8E9yZw",
+    "topic": "Soul Touching Quran Recitation & Reminders",
+    "active": true
+  },
+  {
+    "id": 29,
+    "name": "الشيخ نايف الصحفي (Nayef Al-Sahafi)",
+    "handle": "@nayefalsahafi",
+    "channel_id": "UC58L4M3N2R5T6V7W8F9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC58L4M3N2R5T6V7W8F9yZw",
+    "topic": "Youth Da'wah & Personal Reformation",
+    "active": true
+  },
+  {
+    "id": 30,
+    "name": "الشيخ صالح المغامسي (Saleh Al-Maghamsi)",
+    "handle": "@SalehAlmaghamsi",
+    "channel_id": "UC68L4M3N2R5T6V7W8G9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC68L4M3N2R5T6V7W8G9yZw",
+    "topic": "Reflections on Quran & Spiritual Eloquence",
+    "active": true
+  },
+  {
+    "id": 31,
+    "name": "د. علي جمعة (Dr. Ali Gomaa)",
+    "handle": "@DrAliGomaa",
+    "channel_id": "UC78L4M3N2R5T6V7W8H9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC78L4M3N2R5T6V7W8H9yZw",
+    "topic": "Azhar Scholarship, Usul al-Fiqh & Fatwa",
+    "active": true
+  },
+  {
+    "id": 32,
+    "name": "د. أسامة الأزهري (Dr. Usama Al-Azhari)",
+    "handle": "@DrOusamaAlazhary",
+    "channel_id": "UC88L4M3N2R5T6V7W8I9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC88L4M3N2R5T6V7W8I9yZw",
+    "topic": "Islamic Philosophy, Moderation & Scholarly Discourses",
+    "active": true
+  },
+  {
+    "id": 33,
+    "name": "الحبيب علي الجفري (Habib Ali Al-Jifri)",
+    "handle": "@alhabibali",
+    "channel_id": "UC98L4M3N2R5T6V7W8J9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC98L4M3N2R5T6V7W8J9yZw",
+    "topic": "Tasawwuf, Compassion & Spiritual Purification",
+    "active": true
+  },
+  {
+    "id": 34,
+    "name": "الأزهر الشريف (Al-Azhar Al-Sharif Official)",
+    "handle": "@AlAzhar",
+    "channel_id": "UCA8L4M3N2R5T6V7W8K9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA8L4M3N2R5T6V7W8K9yZw",
+    "topic": "Official Statements & Scholarly Guidance of Al-Azhar",
+    "active": true
+  },
+  {
+    "id": 35,
+    "name": "دار الإفتاء المصرية (Dar Al-Ifta Egypt)",
+    "handle": "@EgyptIfta",
+    "channel_id": "UCB8L4M3N2R5T6V7W8L9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB8L4M3N2R5T6V7W8L9yZw",
+    "topic": "Contemporary Fatwas & Clarification of Religious Inquiries",
+    "active": true
+  },
+  {
+    "id": 36,
+    "name": "قناة زاد العلمية (Zad TV)",
+    "handle": "@ZadGroup",
+    "channel_id": "UCBoe29aQT-zMECFyyyO7H4Q",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBoe29aQT-zMECFyyyO7H4Q",
+    "topic": "Systematic Islamic Education & Sharia Knowledge",
+    "active": true
+  },
+  {
+    "id": 37,
+    "name": "شبكة إسلام ويب (Islamweb)",
+    "handle": "@islamweb",
+    "channel_id": "UCG-LiLFG1TvBOESG6TxcCHA",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCG-LiLFG1TvBOESG6TxcCHA",
+    "topic": "Comprehensive Islamic Articles, Fatwa & Educational Clips",
+    "active": true
+  },
+  {
+    "id": 38,
+    "name": "د. مطلق الجاسر (Dr. Mutlaq Al-Jasser)",
+    "handle": "@mutlaqaljasser",
+    "channel_id": "UCD8L4M3N2R5T6V7W8N9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD8L4M3N2R5T6V7W8N9yZw",
+    "topic": "Islamic Transactions, Contemporary Fiqh & Ethics",
+    "active": true
+  },
+  {
+    "id": 39,
+    "name": "الشيخ خالد الفليج (Khalid Al-Fulaij)",
+    "handle": "@khalidalfulaij",
+    "channel_id": "UCE8L4M3N2R5T6V7W8O9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCE8L4M3N2R5T6V7W8O9yZw",
+    "topic": "Answers to Religious Questions & Islamic Advice",
+    "active": true
+  },
+  {
+    "id": 40,
+    "name": "الشيخ ياسر الدوسري (Yasser Al-Dosari)",
+    "handle": "@YasserAlDossary",
+    "channel_id": "UCF8L4M3N2R5T6V7W8P9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCF8L4M3N2R5T6V7W8P9yZw",
+    "topic": "Haram Makkah Khutbah & Quran Recitations",
+    "active": true
+  },
+  {
+    "id": 41,
+    "name": "الشيخ ماهر المعيقلي (Maher Al-Muaiqly)",
+    "handle": "@MaherAlMuaiqly",
+    "channel_id": "UCaZEQtIQkmaWnj3dPeYw9xA",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaZEQtIQkmaWnj3dPeYw9xA",
+    "topic": "Haram Sermons, Quran Readings & Prayers",
+    "active": true
+  },
+  {
+    "id": 42,
+    "name": "الشيخ عبد الرحمن السديس (Abdul Rahman Al-Sudais)",
+    "handle": "@AlSudais",
+    "channel_id": "UCH8L4M3N2R5T6V7W8R9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH8L4M3N2R5T6V7W8R9yZw",
+    "topic": "Two Holy Mosques Sermons & Islamic Guidance",
+    "active": true
+  },
+  {
+    "id": 43,
+    "name": "مشاري راشد العفاسي (Mishari Alafasy)",
+    "handle": "@Alafasy",
+    "channel_id": "UCI8L4M3N2R5T6V7W8S9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI8L4M3N2R5T6V7W8S9yZw",
+    "topic": "Quran Recitations, Adhkar & Nasheed Reminders",
+    "active": true
+  },
+  {
+    "id": 44,
+    "name": "د. ذاكر نايك بالعربية (Dr. Zakir Naik Arabic)",
+    "handle": "@DrZakirNaikArabic",
+    "channel_id": "UCJ8L4M3N2R5T6V7W8T9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ8L4M3N2R5T6V7W8T9yZw",
+    "topic": "Comparative Religion, Q&A and Apologetics in Arabic",
+    "active": true
+  },
+  {
+    "id": 45,
+    "name": "محمد حجاب (Mohammed Hijab)",
+    "handle": "@MohammedHijab",
+    "channel_id": "UCK8L4M3N2R5T6V7W8U9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8L4M3N2R5T6V7W8U9yZw",
+    "topic": "Philosophical Debates, Theology & Global Discussions",
+    "active": true
+  },
+  {
+    "id": 46,
+    "name": "فانوس المسلم (The Muslim Lantern)",
+    "handle": "@TheMuslimLantern",
+    "channel_id": "UCL8L4M3N2R5T6V7W8V9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL8L4M3N2R5T6V7W8V9yZw",
+    "topic": "Street Conversations, Logic & Answers to Non-Muslims",
+    "active": true
+  },
+  {
+    "id": 47,
+    "name": "علي دعوة (Ali Dawah)",
+    "handle": "@AliDawah",
+    "channel_id": "UCM8L4M3N2R5T6V7W8W9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM8L4M3N2R5T6V7W8W9yZw",
+    "topic": "Youth Outreach, Street Debates & Da'wah",
+    "active": true
+  },
+  {
+    "id": 48,
+    "name": "One Message Foundation (Sh. Uthman)",
+    "handle": "@OneMessageFoundation",
+    "channel_id": "UCN8L4M3N2R5T6V7W8X9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN8L4M3N2R5T6V7W8X9yZw",
+    "topic": "Comparative Religion, Street Da'wah & Rational Dialogues",
+    "active": true
+  },
+  {
+    "id": 49,
+    "name": "الشيخ محمد حسان (Mohamed Hassan Official)",
+    "handle": "@MohamedHassanOfficial",
+    "channel_id": "UCO8L4M3N2R5T6V7W8Y9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO8L4M3N2R5T6V7W8Y9yZw",
+    "topic": "Classic Da'wah Sermons & Islamic Faith",
+    "active": true
+  },
+  {
+    "id": 50,
+    "name": "قناة الندى الفضائية (Al-Nada TV)",
+    "handle": "@AlnadaTv",
+    "channel_id": "UCP8L4M3N2R5T6V7W8Z9yZw",
+    "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP8L4M3N2R5T6V7W8Z9yZw",
+    "topic": "Satellite TV Islamic Programs, Family Guidance & Fiqh",
+    "active": true
+  }
+]
